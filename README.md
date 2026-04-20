@@ -38,7 +38,6 @@ The project is split into two specialized repositories to maintain a clean **Dec
 ![Dashboard](./screenshots/Screenshot%20(569).png)
 
 
-*(Hint: මෙතැනට ඔයාගේ Project එකේ Screenshot එකක ලින්ක් එකක් දාන්න)*
 
 ---
 
